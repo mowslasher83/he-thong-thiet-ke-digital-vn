@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   entry: './src/index.js',
   output: {
-    filename: 'bundle.v1.js',
+    filename: 'bundle.v1.0.0.js',
     path: path.resolve(__dirname, 'dist'),
     library: 'he-thong-thiet-ke-digital-vn',
     libraryTarget: 'umd'
