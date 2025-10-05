@@ -1,0 +1,26 @@
+{
+  "name": "he-thong-thiet-ke-digital-vn",
+  "version": "1.0.0",
+  "description": "Thư viện thiết kế giao diện cho sản phẩm kỹ thuật số tại Việt Nam.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/he-thong-thiet-ke-digital-vn.git"
+  },
+  "keywords": [
+    "design",
+    "components",
+    "ui",
+    "vietnam"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.0.0",
+    "jest": "^27.0.0"
+  }
+}
